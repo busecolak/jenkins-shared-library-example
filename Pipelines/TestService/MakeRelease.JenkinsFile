@@ -1,0 +1,7 @@
+@Library('SharedLibraries') _
+
+Make{
+        node='master
+        servicename='AMPApiGateway'
+        giturl='git_url'
+}
